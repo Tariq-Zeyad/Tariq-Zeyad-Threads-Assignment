@@ -1,0 +1,7 @@
+Invoice
+Order ID: 19
+Customer ID: 9
+Subtotal: 70.00
+Discount: 0.00
+Shipping: 6.90
+Total: 76.90

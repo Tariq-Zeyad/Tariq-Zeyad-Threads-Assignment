@@ -1,0 +1,12 @@
+[
+  {
+    "id": "df2c8f8f-3599-4a87-a366-0ab4f3c75e58",
+    "orderId": 17,
+    "to": "karim.samir@example.com",
+    "subject": "Order #17 Confirmation",
+    "body": "Your order #17 has been completed. Total: 687.30",
+    "sentAt": "2026-10-24T07:24:12.2262401Z",
+    "attempts": 4,
+    "lastError": "Email service unavailable for Order #17, attempt 4."
+  }
+]

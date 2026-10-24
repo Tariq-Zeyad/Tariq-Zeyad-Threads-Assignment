@@ -1,0 +1,12 @@
+{
+  "TotalOrders": 20,
+  "TotalRevenue": 5970.95,
+  "CompletedCount": 13,
+  "RejectedCount": 6,
+  "FailedCount": 1,
+  "PaymentFailedCount": 0,
+  "TopSellingProduct": "USB-C Hub",
+  "TopSellingQuantity": 5,
+  "AverageOrderValue": 459.30,
+  "GeneratedAt": "2026-10-22T11:19:01.907417+03:00"
+}

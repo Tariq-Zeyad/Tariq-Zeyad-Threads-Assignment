@@ -1,0 +1,17 @@
+﻿Selected mode: phase3-fire-and-forget-fixed
+
+========== PHASE3-FIRE-AND-FORGET-FIXED ==========
+Created customers.json
+Created products.json
+Created coupons.json
+Created incoming_orders.json
+Created orders.json
+Created payments.json
+Created emails.json
+Created email_retry.json
+Data reset completed successfully.
+=== FIXED: AWAIT ===
+Starting awaited email...
+Email sent successfully.
+Email operation finished.
+Runner finished.
